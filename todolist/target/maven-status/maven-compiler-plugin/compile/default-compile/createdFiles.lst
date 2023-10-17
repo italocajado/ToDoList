@@ -1,0 +1,10 @@
+br\com\italocajado\todolist\user\userController.class
+br\com\italocajado\todolist\errors\excphandctr.class
+br\com\italocajado\todolist\task\iTaskRepo.class
+br\com\italocajado\todolist\task\taskController.class
+br\com\italocajado\todolist\utils\Utils.class
+br\com\italocajado\todolist\TodolistApplication.class
+br\com\italocajado\todolist\user\UserModel.class
+br\com\italocajado\todolist\task\taskModel.class
+br\com\italocajado\todolist\filter\FilterTaskAuth.class
+br\com\italocajado\todolist\user\UserRepo.class
